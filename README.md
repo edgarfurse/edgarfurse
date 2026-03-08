@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Edgar 👋
 
-<!--
-**edgaraidev/edgaraidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI-Native Developer | Following my soul on what educationl or immersive tool to build next.
 
-Here are some ideas to get you started:
+I focus on expanding minds and filling hearts through high quality, open-source projects. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Project: PocketTerm
+**PocketTerm** is a zero-friction, browser-based Linux sandbox. It’s built with an AI-native approach to simulate complex systems like:
+- **AST Shell Parsing**
+- **POSIX-like Virtual File Systems**
+- **Cinematic BIOS & Boot Sequences**
+
+[Check out the Repository](https://github.com/edgaraidev/pocketterm)
+
+---
+
+## ☕ Support My Work
+I’m dedicated to keeping my projects open-source and accessible. Your support helps cover the high-level LLM reasoning and API infrastructure costs required for AI-native development.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/edgar.ai.dev)
+
+---
+
+## 📫 Connect with me:
+- **LinkedIn:** [[Edgar Furse](https://www.linkedin.com/in/edgar-furse-7643b3ba/)]
+- **Email:** edgar.ai.dev@gmail.com
