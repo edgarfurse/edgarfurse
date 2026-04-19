@@ -17,12 +17,11 @@ I focus on expanding minds and filling hearts through high quality, open-source 
 ---
 
 ## ☕ Support My Work
-I’m dedicated to keeping my projects open-source and accessible. Your support helps cover the high-level LLM reasoning and API infrastructure costs required for AI-native development.
+I’m dedicated to keeping my projects open-source and accessible when possible. 
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/edgar.ai.dev)
 
 ---
 
 ## 📫 Connect with me:
-- **LinkedIn:** [[Edgar Furse](https://www.linkedin.com/in/edgar-furse-7643b3ba/)]
-- **Email:** edgar.ai.dev@gmail.com
+- **Email:** edgar.furse@gmail.com
