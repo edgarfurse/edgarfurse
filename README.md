@@ -7,12 +7,12 @@ I focus on expanding minds and filling hearts through high quality, open-source 
 ---
 
 ## 🚀 Featured Project: PocketTerm
-**PocketTerm** is a zero-friction, browser-based Linux sandbox. It’s built with an AI-native approach to simulate complex systems like:
+**PocketTerm** is a zero-friction, browser-based Linux sandbox. 
 - **AST Shell Parsing**
 - **POSIX-like Virtual File Systems**
 - **Cinematic BIOS & Boot Sequences**
 
-[Check out the Repository](https://github.com/edgaraidev/pocketterm)
+[Check out the Repository](https://github.com/edgarfurse/pocketterm)
 
 ---
 
