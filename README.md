@@ -1,6 +1,6 @@
 # Hi there, I'm Edgar 👋
 
-### AI-Native Developer | Following my soul on what educational or immersive tool to build next.
+### iOS and Mac developer. Building things that matter to me
 
 I focus on expanding minds and filling hearts through high quality, open-source projects. 
 
