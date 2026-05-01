@@ -1,8 +1,6 @@
 # Hi there, I'm Edgar 👋
 
-### iOS and Mac developer. Building things that matter to me
-
-I focus on expanding minds and filling hearts through high quality, open-source projects. 
+### Building things that matter to me.
 
 ---
 
